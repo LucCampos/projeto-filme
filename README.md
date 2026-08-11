@@ -4,9 +4,9 @@
 ## 🎥Informações sobre o projeto🎥
 Filme escolhido: Pacific Rim (2013)
 
-Aluno: Lucas de Oliveira Campos
-Turma: 1IE
-Data: 11/08/2026
+* Aluno: Lucas de Oliveira Campos
+* Turma: 1IE
+* Data: 11/08/2026
 
 ## 💻Sobre a Atividade💻
 A atividade foi concluida utilizando a linguagem de marcação de texto (HTML) em sua quinta versão, utilizando os requisitos demandados pelo professor, onde a página deve conter:
